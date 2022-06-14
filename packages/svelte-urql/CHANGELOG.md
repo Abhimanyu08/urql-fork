@@ -1,5 +1,11 @@
 # @urql/svelte
 
+## 2.0.2
+
+### Patch Changes
+
+- Made variables optional for all operations, by [@mpiorowski](https://github.com/mpiorowski) (See [#2496](https://github.com/FormidableLabs/urql/pull/2496))
+
 ## 2.0.1
 
 ### Patch Changes
